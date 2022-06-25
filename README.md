@@ -19,7 +19,7 @@ after running it, right click the "show overclocking" button, click "multi displ
 
 <img src="https://github.com/Timotheeee/Heat_Wave_Guide/blob/main/display.png?raw=true"/>
 
-In my case, my GPU went from idling on 50W down to just 20W. You will have to disable this and then re-enable it every time you want to play a demanding game, because while it's active your GPU will run at a much lower frequency.
+In my case, my GPU went from idling on 50W down to just 20W. You will have to disable this and then re-enable it every time you want to play a demanding game, because while it's active your GPU will run at a much lower frequency. (although if you play a game that's easy to run while power saver mode is active, your GPU will use a lot less power!)
 
 ## lowering CPU voltage
 This one doesn't help much but if you don't mind losing a bit of performance during heat waves, you can underclock your CPU a bit and lower its voltage to reduce power consumption.
