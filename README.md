@@ -4,6 +4,7 @@ a few tips and tricks to reduce PC power consumption (mostly applicable for thos
 ## The easiest one: limit FPS of games running in the background
 Just do this:
 <img src="https://github.com/Timotheeee/Heat_Wave_Guide/blob/main/fps%20limit.png?raw=true"/>
+
 Now your PC won't use as much power when you tab out of a game.
 
 
@@ -15,7 +16,9 @@ If you have a high-end Nvidia GPU and more than 1 monitor there is a good chance
 
 
 after running it, right click the "show overclocking" button, click "multi display power saver" and set it up like this:
+
 <img src="https://github.com/Timotheeee/Heat_Wave_Guide/blob/main/display.png?raw=true"/>
+
 In my case, my GPU went from idling on 50W down to just 20W. You will have to disable this and then re-enable it every time you want to play a demanding game, because while it's active your GPU will run at a much lower frequency.
 
 ## lowering CPU voltage
