@@ -14,7 +14,7 @@ For the next part of the guide, I recommend installing HWmonitor so you can see 
 If you have a high-end Nvidia GPU and more than 1 monitor there is a good chance your GPU is using a lot of power (40-60W) while idling. This can be fixed with this program: https://www.guru3d.com/files-details/nvidia-profile-inspector-download.html
 
 
-after running it right click the "show overclocking" button, click "multi display power saver" and set it up like this:
+after running it, right click the "show overclocking" button, click "multi display power saver" and set it up like this:
 <img src="https://github.com/Timotheeee/Heat_Wave_Guide/blob/main/display.png?raw=true"/>
 In my case, my GPU went from idling on 50W down to just 20W. You will have to disable this and then re-enable it every time you want to play a demanding game, because while it's active your GPU will run at a much lower frequency.
 
