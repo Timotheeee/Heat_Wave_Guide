@@ -12,7 +12,7 @@ Now your PC won't use as much power when you tab out of a game. You can also lim
 For the next part of the guide, I recommend installing HWmonitor so you can see if the changes actually make a difference: https://www.cpuid.com/softwares/hwmonitor.html
 
 ## Idle GPU power consumption
-If you have a high-end Nvidia GPU and more than 1 monitor there is a good chance your GPU is using a lot of power (40-60W) while idling. This can be fixed with this program: https://www.guru3d.com/files-details/nvidia-profile-inspector-download.html
+If you have a high-end Nvidia GPU and more than 1 monitor there is a good chance your GPU is using a lot of power (40-60W) while idling. This is because for some reason Nvidia cards don't go into power saver mode automatically on systems with multiple monitors. This can be fixed with this program: https://www.guru3d.com/files-details/nvidia-profile-inspector-download.html
 
 
 after running it, right click the "show overclocking" button, click "multi display power saver" and set it up like this:
